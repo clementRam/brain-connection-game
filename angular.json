@@ -27,9 +27,16 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/iconfont/material-icons.css",
+              "node_modules/materialize-css/dist/css/materialize.min.css",
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/chart.js/dist/Chart.js",
+              "node_modules/hammerjs/hammer.min.js",
+              "node_modules/materialize-css/dist/js/materialize.min.js",
+              "src/assets/js/script.js"
+            ]
           },
           "configurations": {
             "production": {

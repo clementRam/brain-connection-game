@@ -1,0 +1,38 @@
+{
+    "word": [
+        {
+           "id": 0,
+           "value": "vrai ou"
+       },
+       {
+           "id": 0,
+           "value": "jackie et"
+       }
+    ],
+    "party": {
+        "teams": [
+            {
+                "id": 1,
+                "name": "Team1",
+                "score": {
+                    "value": 0
+                },
+                "playing": false
+            },
+            {
+                "id": 2,
+                "name": "Team2",
+                "score": {
+                    "value": 0
+                },
+                "playing": false
+            }
+        ],
+        "config": {
+            "nbTeam": 2,
+            "nbPoint": 10
+        }
+    }
+}
+
+
